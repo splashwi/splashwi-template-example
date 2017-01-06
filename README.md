@@ -1,0 +1,1 @@
+# splashwi-theme-example
